@@ -8,3 +8,4 @@ const word1 = "World!";
 alert("aaaa");
 
 document.body.textContent = sayHello(word);
+document.body.textContent = "fuck you man: " + sayHello(word);

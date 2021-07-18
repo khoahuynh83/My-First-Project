@@ -9,3 +9,4 @@ alert("aaaa");
 
 document.body.textContent = sayHello(word);
 document.body.textContent = "fuck you man: " + sayHello(word);
+document.body.textContent = "clgt haha: " + sayHello(word);

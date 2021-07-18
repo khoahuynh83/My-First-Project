@@ -3,5 +3,6 @@ const sayHello = (word: string) => {
 }
 
 const word = "World!";
+const word1 = "World!";
 
 document.body.textContent = sayHello(word);

@@ -5,4 +5,6 @@ const sayHello = (word: string) => {
 const word = "World!";
 const word1 = "World!";
 
+alert("aaaa");
+
 document.body.textContent = sayHello(word);
